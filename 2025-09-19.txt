@@ -17,3 +17,10 @@ The user wanted to create a public GitHub repository named "DailyTalk", record o
     *   We initialized a Git repository within the new directory (`git init`).
     *   Finally, `gh repo create` was run successfully, linking the local directory to the new repository on GitHub.
 5.  **Final Step:** This file was created and will be pushed to the `DailyTalk` repository.
+
+---
+## Update: New Goal
+
+The user added a new request: "我想和你一起完成一些关于计算机视觉的项目，我希望你能直接将我们写的代码上传到我的GitHub上，你来告诉我如何操作以实现这个功能" (I want to work on some computer vision projects with you, and I hope you can directly upload the code we write to my GitHub. Tell me how to operate to achieve this function).
+
+Future conversations regarding this topic will be appended here.
